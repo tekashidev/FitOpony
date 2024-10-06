@@ -1,0 +1,2 @@
+# FitOpony
+ The “FitOpony” project is a clone of the popular “oponeo” website, it offers the possibility to buy car tires, the application aims to facilitate users in the process of selecting and buying the right tires for their vehicles. The main idea of the project is a futuristic design, which will please the eye of the potential customer and facilitate the purchase in a quick and hassle-free way. 
